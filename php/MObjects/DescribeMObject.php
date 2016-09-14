@@ -1,4 +1,11 @@
 require 'savon' # Use version 2.0 Savon gem
+/*
+   Marketo SOAP API Sample Code
+   Copyright (C) 2016 Marketo, Inc.
+
+   This software may be modified and distributed under the terms
+   of the MIT license.  See the LICENSE file for details.
+*/
 require 'date'
 
 mktowsUserId = "" # CHANGE ME
