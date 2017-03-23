@@ -9,11 +9,11 @@ Additional questions or comments?  Please contact [developerfeedback@marketo.com
 # Samples by Category
 |Category | Language|
 |----------|---------|
-|Activities | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Activities) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Activities) / [Ruby] (https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Activities)|
+|Activities | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Activities) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Activities) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Activities)|
 |Authentication | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Authentication) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Authentication) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Authentication)|
 |Campaigns | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Campaigns) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Campaigns) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Campaigns)|
 |Custom Objects | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/CustomObjects) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/CustomObjects) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/CustomObjects)|
-|Leads | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Leads) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Leads) / [Ruby] (https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Leads)|
+|Leads | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Leads) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Leads) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Leads)|
 |Marketo Objects | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/MObjects) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/MObjects) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/MObjects)|
 |Programs | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/Programs) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/Programs) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/Programs)|
 |Static Lists | [Java](https://github.com/Marketo/SOAP-Sample-Code/tree/master/java/StaticLists) / [PHP](https://github.com/Marketo/SOAP-Sample-Code/tree/master/php/StaticLists) / [Ruby](https://github.com/Marketo/SOAP-Sample-Code/tree/master/ruby/StaticLists)|
